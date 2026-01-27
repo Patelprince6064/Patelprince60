@@ -14,7 +14,9 @@ Hi, I'm Prince Patel 👋
 - 💻 Laptop Price Prediction
 - 📊 Exploratory Data Analysis (EDA)
 
-(Projects will be added soon)
+     Project Done
+- 💻 Laptop Price Prediction
+
 
  🛠️ Skills
 - Python
