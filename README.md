@@ -9,14 +9,15 @@ Hi, I'm Prince Patel 👋
 - Love working with real-world datasets
 - Focused on building practical ML projects
 
- 📌 Featured Projects
-- 📈 Sales Prediction System
-- 💻 Laptop Price Prediction
-- 📊 Exploratory Data Analysis (EDA)
-
-     Project Done
-- 💻 Laptop Price Prediction
-
+ 📌 Projects
+🔹💻 Laptop Price Prediction
+  - Regression-based ML model
+  - Feature engineering & evaluation
+  - Clean, production-ready pipeline
+ 
+🔹 Sales Prediction System (Coming Soon)
+  - Real retail sales dataset
+  - Model comparison & insights
 
  🛠️ Skills
 - Python
